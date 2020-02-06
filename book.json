@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "theme-default": {
-            "single": true,
+            "auto_open": true,
             "logo": {},
             "navs": []
         }
