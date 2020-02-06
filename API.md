@@ -1,3 +1,5 @@
+[TOC]
+
 # API
 
 ## template(filename, content)

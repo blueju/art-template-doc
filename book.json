@@ -1,5 +1,13 @@
 {
     "plugins": [
-        "highlight"
-    ]
+        "highlight",
+        "comment"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "single": true,
+            "logo": {},
+            "navs": []
+        }
+    }
 }
