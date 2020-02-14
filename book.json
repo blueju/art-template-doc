@@ -5,9 +5,14 @@
     ],
     "pluginsConfig": {
         "theme-default": {
+            "single": true,
             "auto_open": true,
+            "show_nav": true,
             "logo": {},
             "navs": []
+        },
+        "highlight": {
+            "defaultLanguage": "javascript"
         }
     }
 }
