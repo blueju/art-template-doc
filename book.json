@@ -1,7 +1,9 @@
 {
     "plugins": [
         "highlight",
-        "comment"
+        "comment",
+        "copy-code",
+        "image-zoom"
     ],
     "pluginsConfig": {
         "theme-default": {
