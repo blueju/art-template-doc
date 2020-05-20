@@ -1,10 +1,7 @@
-# art-template
-> 基于官网文档，结合个人工作实践后，进一步总结完善的文档
+# art-template-doc
 
-## 此文档
-Github：[https://github.com/blueju/art-template](https://github.com/blueju/art-template)
-文档：[https://www.kancloud.cn/lanju/art-template/content](https://www.kancloud.cn/lanju/art-template/content)
+旧项目又双叒叕要修改了。
 
-## 官方文档
-Github：https://github.com/aui/art-template
-文档：https://aui.github.io/art-template/
+之前工程化该项目的基础开发平台的时候，也写了 art-template 的一点小文档，但感觉不佳，而且看云的编辑体验感觉不是很好，所以决定转移阵地，现在在 `old` 分支。🙄
+
+现在会基于原来的文档，根据项目中遇到的问题且官方文档中没说明白，做一个补充整理。🤣
